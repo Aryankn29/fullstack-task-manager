@@ -1,0 +1,12 @@
+# Node
+node_modules/
+npm-debug.log*
+# Java / build
+target/
+build/
+*.class
+# IDE
+.idea/
+*.iml
+# Env files
+.env
